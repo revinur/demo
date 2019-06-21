@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "records": [
+        {
+            "id": "1",
+            "nama": "Revi",
+            "deskripsi": "ini saya",
+            "gambar": "https://not-there.org/wp-content/uploads/2019/03/1-700x700.png"
+        },
+        {
+            "id": "2",
+            "nama": "diya",
+            "deskripsi": "ini diya",
+            "gambar": "https://www.pinclipart.com/picdir/middle/2-28331_anak-kartun-muslim-png-clipart-cartoon-child-cartoon.png"
+        }
+    ]
 }
